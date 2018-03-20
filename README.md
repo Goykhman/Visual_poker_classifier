@@ -5,4 +5,4 @@ Compile and run Test_case for the example of how the classifier works.
 
 The program prints cards layout of all the players, and of each player individually, and prints the best hand of each player. It also can return which of the player(s) wins the game.
 
-This is a naive classifier, and shouldn't be used for computationally intense poker research. Faster classifiers use pre-comnputed tables of all possible 7462 five-card poker hands.
+This is a naive classifier, and shouldn't be used for computationally intense poker research. Faster classifiers use pre-computed tables of all possible 7462 five-card poker hands.
